@@ -1,0 +1,31 @@
+{
+  "name": "talk-a-tive",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon server/index.js"
+  },
+  "author": "Parthib",
+  "license": "ISC",
+  "dependencies": {
+    "@emotion/styled": "^11.10.5",
+    "@mui/lab": "^5.0.0-alpha.114",
+    "bcryptjs": "^2.4.3",
+    "body-parser": "^1.20.1",
+    "colors": "^1.4.0",
+    "cors": "^2.8.5",
+    "dotenv": "^16.0.3",
+    "express": "^4.18.2",
+    "express-async-handler": "^1.2.0",
+    "jsonwebtoken": "^9.0.0",
+    "mongoose": "^6.8.2",
+    "nodemon": "^2.0.20",
+    "react-file-base64": "^1.0.3",
+    "react-infinite-scroller": "^1.2.6",
+    "react-redux": "^8.0.5",
+    "react-scrollable-feed": "^1.3.1",
+    "redux": "^4.2.0",
+    "socket.io": "^4.5.4"
+  }
+}
