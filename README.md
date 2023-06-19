@@ -27,11 +27,13 @@ git clone git@github.com:Parthib314/iChat.git
 
 ### Server Side
 ```javascript
+cd server
 npm start
 ```
 
 ### Client Side 
 ```javascript
+cd newClient
 npm run dev
 ```
 
